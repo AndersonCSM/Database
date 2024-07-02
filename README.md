@@ -1,4 +1,3 @@
-# English
 ## About
 Repository for projects and studies about databases
 
@@ -12,7 +11,6 @@ The repository aims to serve as a database for future projects, in addition to b
 - Contact email: andersoncarlos799@gmail.com
 
 ---
-# Português Brasil
 ## Sobre
 Repositório para projetos e estudos acerca de banco de dados
 
